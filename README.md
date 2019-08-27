@@ -1,0 +1,2 @@
+# CT-Project
+Taking the CT system as the research object, based on the provided template and imaging data, using the ideas and techniques of geometric transformation, matrix transformation, Radon inverse transformation, image compression, etc., the mathematical model is established, and the matlab programming software is used to solve Problems such as parameter calibration, imaging, and improvement of system calibration parameters of the CT system.
